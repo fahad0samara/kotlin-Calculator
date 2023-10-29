@@ -1,6 +1,7 @@
 # Calculator App
 
-![Calculator App Logo](app/src/main/res/drawable/calculator_icon.png)
+
+
 
 ## Overview
 
@@ -13,8 +14,18 @@ This is a simple Android calculator app built with Kotlin and Jetpack Compose. T
 - Efficient state management using Jetpack Compose.
 
 ## Screenshots
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/fahad0samara/kotlin-Calculator/assets/90055525/e600fe67-c8f6-41ff-bdcc-7337f1f801e5" alt="Screenshot 1" width="400"/>
+    </td>
+    <td>
+      <img src="https://github.com/fahad0samara/kotlin-Calculator/assets/90055525/93dfea02-132d-42a4-b8da-865782b98d9a" alt="Screenshot 2" width="400"/>
+    </td>
+  </tr>
+</table>
 
-![Calculator App Screenshot](app/src/main/res/drawable/screenshot.png)
+
 
 ## Getting Started
 
@@ -36,17 +47,7 @@ To run the app locally, follow these steps:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
 
-- Thanks to the [Jetpack Compose](https://developer.android.com/jetpack/compose) framework for making UI development more efficient.
-- Special thanks to the Compose community for their valuable resources and tutorials.
-
-## Contact
-
-For any inquiries or feedback, please contact the developer:
-
-- [GitHub](https://github.com/fahad0samara)
-- [LinkedIn](https://www.linkedin.com/in/fahad-osamara/)
 
 Feel free to contribute to the project or report any issues. Happy calculating!
 
