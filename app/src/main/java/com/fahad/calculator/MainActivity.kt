@@ -13,6 +13,7 @@ import androidx.compose.material3.Surface
 
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
+import com.fahad.calculator.navgtion.Navigation
 
 import com.fahad.calculator.screen.CalculatorScreen
 import com.fahad.calculator.ui.theme.CalculatorTheme
@@ -36,7 +37,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    CalculatorScreen()
+                    Navigation()
                 }
             }
         }
